@@ -1,0 +1,23 @@
+{
+  "name": "socialmedia",
+  "version": "1.0.0",
+  "description": "social media",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlkirkness/socialmedia.git"
+  },
+  "author": "hlkirkness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlkirkness/socialmedia/issues"
+  },
+  "homepage": "https://github.com/hlkirkness/socialmedia#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
